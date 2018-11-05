@@ -1,0 +1,6 @@
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\bin\Debug\ContextViewApp.Models.dll
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\bin\Debug\ContextViewApp.Models.pdb
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\obj\Debug\ContextViewApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\obj\Debug\ContextViewApp.Models.dll
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\obj\Debug\ContextViewApp.Models.pdb
+C:\Users\320027357\Workspace\BootCampProject\8. SignalR Self Hosted\ContextViewAp\ContextViewApp.Models\obj\Debug\ContextViewApp.Models.csprojAssemblyReference.cache
